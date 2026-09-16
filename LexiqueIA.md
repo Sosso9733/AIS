@@ -1,4 +1,4 @@
-# **Lexique IA**
+# Lexique IA
 
 -**Inférence** : Processus par lequel un modèle IA génère une réponse à partir de ce qu'il a appris.
 
