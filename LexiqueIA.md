@@ -1,4 +1,4 @@
-#**Lexique IA**
+# **Lexique IA**
 
 -**Inférence** : Processus par lequel un modèle IA génère une réponse à partir de ce qu'il a appris.
 
@@ -61,5 +61,3 @@
 -**SystemPrompt** : Instruction initiale définissant le comportement général et le rôle d'une IA avant l'interaction utilisateur.
 
 -**Données** : Informations brutes (texte, image, chiffres...) servant de base à l'entraînement ou au fonctionnement d'une IA.
-
-Test
